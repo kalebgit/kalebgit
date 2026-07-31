@@ -9,8 +9,9 @@ Everything built here is made by me and from scratch to keep my learning solid.
 ***
 
 ## Tools and Tech
-- Python data analysis: Numpy, Pandas, Seaborn/Matplotlib, Tensorflow, keras, UV (for virtual environment management)
-- Dashboards: Excel, Power BI, tableu
+- Python data analysis: Numpy, Pandas, Seaborn/Matplotlib,  UV (for virtual environment management)
+  <!--, Tensorflow, keras, -->
+<!--- Dashboards: Excel, Power BI, tableu -->
 - SQL: PostgreSQL
 - No-SQL: mongoDB
 - Python APIS: FastAPI, SQLAlchemy, Alembic
