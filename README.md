@@ -17,7 +17,7 @@ Everything built here is made by me and from scratch to keep my learning solid.
 - Python APIS: FastAPI, SQLAlchemy, Alembic
 - Deploy: Ducker, Kubernetes, shell scripting
 - Java APIS: Spring
-- Frontend (not an expert): javascript, typescript, React (HTML), tailwind,
+- Frontend: javascript, typescript, React (HTML), tailwind,
 - To be continue: AWS,
 
 ***
